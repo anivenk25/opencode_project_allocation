@@ -31,7 +31,7 @@ Modify the `vacancy_data` dictionary within the script (`allocate_roles.py`) to 
 Execute the script from the command line:
 
 ```bash
-python allocate_roles.py
+python allocate_roles.py'''
 Use code with caution.
 content_copy
 
