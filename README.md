@@ -26,15 +26,6 @@ Prepare your input data in a CSV format with the following columns:
 
 Modify the `vacancy_data` dictionary within the script (`allocate_roles.py`) to reflect available vacancies for each project-role combination. Update the number of vacancies (integer values) for different projects and roles accordingly.
 
-**3. Run the Script**
-
-Execute the script from the command line:
-
-```bash
-python allocate_roles.py'''
-Use code with caution.
-content_copy
-
 **4. Output**
 
   - The script generates an output CSV file (output_dataf.csv) containing the allocated project-role pairs based on the allocation logic and vacancy data.
